@@ -5,7 +5,7 @@
 ## Core features
 - Implemented acceleration for each mass point of the jello cube, took into account the forces due to the mass-spring system(consists of structural, shear and bend springs), external forces, and collision with walls.
 
-## Additional features:
+## Additional features
 - Implemented collision detection with an inclined plane
 - Rendered the jello more realistic
 	-- made the jello cube transparent by setting the alpha value and enable GL_BLEND
