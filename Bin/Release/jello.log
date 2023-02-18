@@ -1,0 +1,217 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\\Bin\Release\) contains files shared from another project (createWorld.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  showCube.cpp
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(132,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(140,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(140,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(140,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(151,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(152,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(153,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(154,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(155,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(156,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(157,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(163,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(164,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(165,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(166,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(167,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(168,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(169,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(170,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(171,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(172,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(173,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(174,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(175,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(177,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(178,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(179,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(180,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(181,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(182,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(183,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(184,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(191,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(192,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(193,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(194,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(195,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(196,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(272,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(271,70): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(271,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(274,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(274,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(274,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(282,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(281,75): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(281,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(284,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(284,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(284,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(367,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(368,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(368,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(368,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(368,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(368,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(368,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(368,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(368,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(368,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(368,106): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(368,101): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(368,96): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(370,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(371,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(371,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(371,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(371,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(371,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(371,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(371,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(371,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(371,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(371,106): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(371,101): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(371,96): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(373,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(374,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(374,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(374,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(374,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(374,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(374,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(374,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(374,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(374,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(374,106): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(374,101): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(374,96): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(376,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(377,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(377,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(377,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(377,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(377,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(377,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(377,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(377,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(377,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(377,106): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(377,101): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(377,96): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(379,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(380,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(380,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(380,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(380,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(380,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(380,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(380,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(380,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(380,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(380,106): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(380,101): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(380,96): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(381,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(381,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(381,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(381,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(381,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(381,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(381,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(381,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(381,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(381,106): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(381,101): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(381,96): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(389,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(390,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(390,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(390,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(390,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(390,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(390,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(391,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(391,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(391,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(391,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(391,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(391,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(392,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(392,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(392,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(392,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(392,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(392,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(393,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(393,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(393,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(393,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(393,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(393,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(394,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(394,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(394,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(394,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(394,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(394,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(395,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(395,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(395,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(395,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(395,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(395,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(396,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(396,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(396,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(396,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(396,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(396,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(397,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(397,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(397,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(397,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(397,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(397,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(398,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(398,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(398,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(398,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(398,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(398,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(399,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(399,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(399,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(399,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(399,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(399,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(400,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(400,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(400,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(400,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(400,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(400,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(401,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(401,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(401,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(401,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(401,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(401,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(296,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(296,7): warning C4101: 'i': unreferenced local variable
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(460,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(466,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(467,85): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(467,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(467,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(441,12): warning C4101: 'rayAngle': unreferenced local variable
+C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\showCube.cpp(441,22): warning C4101: 'T': unreferenced local variable
+  Generating code
+  1 of 132 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  jello.vcxproj -> C:\Users\Jiaqi\Desktop\Study\SS23\520\starter-csci520-assign1\Bin\Release\jello.exe
